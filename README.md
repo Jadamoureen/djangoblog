@@ -8,7 +8,7 @@ Django is a high-level Python Web framework that encourages rapid development an
 
 [Django overview](https://www.djangoproject.com/start/)
 
-### A Blog application built in Django**
+### A Blog application built in Django
 
 **Windows Users**
 `cd Desktop`
